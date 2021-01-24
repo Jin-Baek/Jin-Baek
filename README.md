@@ -16,17 +16,21 @@
 
 <br>
 <p align="left">
-  <p> Machine Learning / Deep Learning </p>  
+  
+  <span> Machine Learning / Deep Learning </span><br>  
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
-  <p> Full Stack </p> 
+  
+  <span> Full Stack </span><br>
   <img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
-  <p> Learning Space </p>
+  
+  <span> Learning Space </span><br>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/>
+  
 </p>
 
 <h3 align="left"> 🌱 Target </h3>
