@@ -1,5 +1,12 @@
 <h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a></h2> 
 
+Hi, this is Jin-baek Lee, a student at Korea University's Sejong , department of Computer Convergence Software.<br>
+Development began in earnest from 2020. <br>
+I aim to research and develop services for everyone such as convenience of daily life, alternatives to specific diseases, and fusion of human health and life.<br>
+For this, in 2020, when development began in earnest, the focus was on web and app programming and database management. From now on, the focus will be on machine learning and deep learning.<br>
+
+
+* I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
 --------------------
 
@@ -19,7 +26,7 @@
   <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-  <br>
+  <br><br>
   <p> <b>Full Stack</b> </p>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -31,7 +38,7 @@
   <br>
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <br>
+  <br><br>
   <p> <b>Learning Space</b> </p>
   <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/></a>
@@ -44,12 +51,8 @@
   <a href=""><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/></a>
 
-
-🔭 I’m currently working on [](https://github.com/Jin-Baek/Machine_Learning-python)
-
-
-
-
+[Reference for the badge of this page](https://shields.io/)<br>
+[Reference for the icons on this page](https://simpleicons.org/)
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
