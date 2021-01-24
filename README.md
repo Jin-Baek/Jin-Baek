@@ -22,9 +22,16 @@
   <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   
   <p> Full Stack </p>
+  <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
+  <br>
+  <a href=""><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
+  <br>
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
   <p> Learning Space </p>
   <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
@@ -34,11 +41,12 @@
 
 <h3 align="left"> 🌱 Target </h3>
 
-<img src ="https://img.shields.io/github/languages/count/beygee/survive">
-<img src ="https://img.shields.io/github/commit-activity/w/beygee/survive">
-<img src ="https://img.shields.io/github/last-commit/beygee/survive">
+  <a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/></a>
 
-🔭 I’m currently working on ...
+
+🔭 I’m currently working on [](https://github.com/Jin-Baek/Machine_Learning-python)
 
 
 
