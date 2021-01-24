@@ -12,28 +12,27 @@
 
 <h3 align="left"> 🌱 Skills </h3>
 
-<br>
 <p align="left">
   
-  <p> Machine Learning / Deep Learning </p> 
+  <p> <b>Machine Learning / Deep Learning</b> </p> 
   <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-  
-  <p> Full Stack </p>
+  <br>
+  <p> <b>Full Stack</b> </p>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
-  <br>
+  
   <a href=""><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
-  <br>
+  
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  
-  <p> Learning Space </p>
+  <br>
+  <p> <b>Learning Space</b> </p>
   <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/></a>
   
