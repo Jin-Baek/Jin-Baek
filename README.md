@@ -5,9 +5,9 @@
 
 <h3 align=";left"> 🌱 Main Languages </h3>  
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
 <h3 align="left"> 🌱 Skills </h3>
@@ -16,18 +16,19 @@
 <p align="left">
   
   <p> Machine Learning / Deep Learning </p> 
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   
   <p> Full Stack </p>
-  <img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+  <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   
   <p> Learning Space </p>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/>
+  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/></a>
   
 </p>
 
