@@ -21,16 +21,14 @@
   <br>
 </p>
 
-<div style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;">
-첫번째 영역:
-왼쪽에 위치시킴 =>  float:left
-오른쪽에 바깥여백을 줌 =>  margin-right:10px;
-여기에 그림이나 글자 또는 광고 등을 넣음
-</div>
-<div style="width:200px; height:150px; border:1px solid green; float:left;">
-두번째 영역:
-첫번째 영역 옆에 나란히 붙임 => float:left
-여기에 그림이나 글자 또는 광고 등을 넣음
+<div> 
+  <div style="width:100px; height:150px; border:1px solid red; float:left; margin-right:10px;">
+    <h2 align="left"> 🌱 Experience </h2>
+  </div>
+
+  <div style="width:100px; height:150px; border:1px solid green; float:right;">
+     <h2 align="right"> 🌱 Target </h2>
+  </div>
 </div>
 
 
