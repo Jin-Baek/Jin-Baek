@@ -1,8 +1,10 @@
-<h2 align="left">JinBaek Lee ⚡ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a></h2> 
-  
+<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a></h2> 
+
+
 --------------------
 
-<h2 align=";left"> 🌱 Experience </h2>  
+<h3 align=";left"> 🌱 Main Languages </h3>  
+
 <br>
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -17,9 +19,9 @@
   <br>
 </p>
 
-<h2 align="center"> 🌱 Target </h2>
+<h3 align="left"> 🌱 Skills </h3>
 
-
+<h3 align="left"> 🌱 Target </h3>
 
 
 
