@@ -1,6 +1,6 @@
-<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a></h2> 
+<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek%2FJin-Baek%2Fedit%2Fmain%2FREADME.md&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
-Hi, this is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
+This is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
 I aim to research and develop services for everyone such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
 For this in 2020, when development began in earnest the focus was on web , app programming and database management. <br>From now on, the focus will be on machine learning and deep learning based on the Biomatics lab.<br>
 
@@ -11,7 +11,6 @@ For this in 2020, when development began in earnest the focus was on web , app p
 <h3 align=";left"> 🌱 Main Languages </h3>  
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
@@ -30,7 +29,7 @@ For this in 2020, when development began in earnest the focus was on web , app p
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a>
   <br>
-  <a href=""><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/></a>
   <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
   <br>
