@@ -1,4 +1,4 @@
-<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek%2FJin-Baek%2Fedit%2Fmain%2FREADME.md&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
+<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
 This is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
 I aim to research and develop services for everyone such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
