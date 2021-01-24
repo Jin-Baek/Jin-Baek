@@ -1,8 +1,8 @@
 <h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a></h2> 
 
 Hi, this is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
-I aim to research and develop services for everyone such as convenience of daily life, alternatives to specific diseases, and fusion of human health and life.<br><br>
-For this, in 2020, when development began in earnest, the focus was on web and app programming and database management. From now on, the focus will be on machine learning and deep learning.<br>
+I aim to research and develop services for everyone such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
+For this in 2020, when development began in earnest the focus was on web , app programming and database management. <br>From now on, the focus will be on machine learning and deep learning based on the Biomatics lab.<br>
 
 * I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
