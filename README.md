@@ -36,10 +36,7 @@ In 2021, the focus will be on machine learning and deep learning based on the Bi
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <br><br>
-  <p> <b>Learning Space</b> </p>
-  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white"/></a>
-  
+ 
 </p>
 
 <h3 align="left"> 🌱 Target </h3>
