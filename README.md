@@ -28,10 +28,12 @@ In 2021, the focus will be on machine learning and deep learning based on the Bi
   <p> <b>Full Stack</b> </p>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+
   <br>
   <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>
+  
   <br>
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
