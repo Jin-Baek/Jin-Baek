@@ -1,7 +1,7 @@
 <h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
 This is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
-I aim to research and develop services for everyone such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
+I aim to research and develop services such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
 In 2020, the focus was on web & app programming <br>
 In 2021, the focus will be on machine learning and deep learning based on the Biomatics lab.<br>
 
@@ -43,7 +43,7 @@ In 2021, the focus will be on machine learning and deep learning based on the Bi
 
   <a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 [Reference for the badge of this page](https://shields.io/)<br>
 [Reference for the icons on this page](https://simpleicons.org/)
