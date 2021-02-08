@@ -3,7 +3,7 @@
 This is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
 I aim to research and develop services such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
 In 2020, the focus was on web & app programming <br>
-In 2021, the focus will be on machine learning and deep learning based on the Biomatics lab.<br>
+In 2021, the focus will be on machine learning and deep learning <br>
 
 * I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
