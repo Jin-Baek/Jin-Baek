@@ -1,14 +1,5 @@
 <h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
-This is *Jin-baek Lee*, a student at Korea University's Sejong , department of Computer Convergence Software.<br><br>
-I aim to research and develop services such as the convenience of personal care, alternatives to specific diseases, and fusion of human health and life.<br><br>
-In 2020, the focus was on web & app programming <br>
-In 2021, the focus will be on machine learning and deep learning <br>
-
-* I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
-
---------------------
-
 <h3 align=";left"> 🌱 Main Languages </h3>  
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -49,6 +40,54 @@ In 2021, the focus will be on machine learning and deep learning <br>
 
 [Reference for the badge of this page](https://shields.io/)<br>
 [Reference for the icons on this page](https://simpleicons.org/)
+## Resources
+
+[FullStack Course](https://github.com/Jin-Baek/WebApp_Course)
+
+[AI Course](https://github.com/Jin-Baek/AI_Course)
+
+* These repositories contain learning sequence and useful links about blog, GitHub, book content, and lecture content
+
+* These repositories is for personal learning so is not public 
+
+--------------------
+
+## Personal history
+
+#### ⚡ Always 
+
+- algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
+
+#### ⚡ 2020 - summer 
+
+[Web project - JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
+
+#### ⚡ 2020 - 2
+
+[App project - 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
+
+[Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
+
+#### ⚡ 2020 - winter
+
+[Toy project - Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis)
+
+[Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트](https://github.com/Jin-Baek/courseraML)
+
+[Machine Learning based on Python](https://github.com/Jin-Baek/Machine_Learning-python)
+
+#### ⚡ 2021 - 1
+
+1. Project upload plan through learning related to Machine learning, Statistics, Image processing and Speech recognition and Data mining.<br>
+2. Project to be carried out in Bioinformatics Lab is scheduled to be uploaded
+3. Will participate in Kaggle
+
+
+🔭 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
+
+
+
+
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
