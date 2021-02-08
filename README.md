@@ -32,25 +32,15 @@
  
 </p>
 
-<h3 align="left"> 🌱 Target </h3>
+-----------------------------
 
-  <a href=""><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-
-[Reference for the badge of this page](https://shields.io/)<br>
-[Reference for the icons on this page](https://simpleicons.org/)
 ## Resources
 
 [FullStack Course](https://github.com/Jin-Baek/WebApp_Course)
 
 [AI Course](https://github.com/Jin-Baek/AI_Course)
 
-* These repositories contain learning sequence and useful links about blog, GitHub, book content, and lecture content
-
-* These repositories is for personal learning so is not public 
-
---------------------
+* These repositories contain learning sequence and useful links about blog, GitHub, book content, and lecture content. <br>But personal datas are included, so not public
 
 ## Personal history
 
@@ -84,9 +74,6 @@
 
 
 🔭 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
-
-
-
 
 
 <!--
