@@ -41,21 +41,21 @@ I am interested in AI, especially Digital Image Processing and Computer Vision.
 
 ## Personal history
 
-#### ⚡ Always 
+#### :triangular_flag_on_post: Always 
 
 - algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
 
-#### ⚡ 2020 - summer 
+#### :triangular_flag_on_post: 2020 - summer 
 
 [Web project - JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
 
-#### ⚡ 2020 - 2
+#### :triangular_flag_on_post: 2020 - 2
 
 [App project - 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 
 [Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 
-#### ⚡ 2020 - winter
+#### :triangular_flag_on_post: 2020 - winter
 
 [Toy project - Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis)
 
@@ -63,7 +63,7 @@ I am interested in AI, especially Digital Image Processing and Computer Vision.
 
 [Machine Learning based on Python](https://github.com/Jin-Baek/Machine_Learning-python)
 
-#### ⚡ 2021 - 1
+#### :triangular_flag_on_post: 2021 - 1
 
 1. Project upload plan through learning related to Machine learning, Statistics, Image processing and Speech recognition and Data mining.<br>
 2. Project to be carried out in Bioinformatics Lab is scheduled to be uploaded
