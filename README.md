@@ -1,5 +1,10 @@
 <h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
+I am interested in AI, especially Digital Image Processing and Computer Vision.
+
+🔭 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
+
+
 <h3 align=";left"> 🌱 Main Languages </h3>  
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -34,14 +39,6 @@
 
 -----------------------------
 
-## Resources
-
-[FullStack Course](https://github.com/Jin-Baek/WebApp_Course)
-
-[AI Course](https://github.com/Jin-Baek/AI_Course)
-
-* These repositories contain learning sequence and useful links about blog, GitHub, book content, and lecture content. <br>But personal datas are included, so not public
-
 ## Personal history
 
 #### ⚡ Always 
@@ -71,9 +68,6 @@
 1. Project upload plan through learning related to Machine learning, Statistics, Image processing and Speech recognition and Data mining.<br>
 2. Project to be carried out in Bioinformatics Lab is scheduled to be uploaded
 3. Will participate in Kaggle
-
-
-🔭 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
 
 <!--
