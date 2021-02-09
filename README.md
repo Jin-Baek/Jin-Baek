@@ -1,40 +1,39 @@
-<h2 align="left">Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
+<h2 align="left"> Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
-I am interested in AI, especially Digital Image Processing and Computer Vision.
+I am interested in ML / DL , especially Digital Image Processing and Computer Vision.<br><br>
+I started studying data and artificial intelligence in 2021, and I plan to actively participate in , <br>
+✅ bioinformatics labs  ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
-🔭 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
+🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
 
-<h3 align=";left"> 🌱 Main Languages </h3>  
+<h3 align="left">  :wrench: Main Languages </h3>  
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 </p>
 
-<h3 align="left"> 🌱 Skills </h3>
+<h3 align="left"> :wrench: Tech Stack </h3>
 
 <p align="left">
   
-  <p> <b>Machine Learning / Deep Learning</b> </p> 
+  Techs that I've used in project or study at least once
+  
   <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   <br><br>
-  <p> <b>Full Stack</b> </p>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/></a>
-
   <br>
   <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
-  
   <br>
   <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-  <br><br>
- 
+ <br><br>
 </p>
 
 -----------------------------
