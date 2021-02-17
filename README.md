@@ -2,7 +2,7 @@
 
 I am interested in ML / DL , especially Digital Image Processing and Computer Vision.<br><br>
 I started studying data and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ bioinformatics labs  ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
+✅ labs  ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
@@ -64,8 +64,8 @@ I started studying data and artificial intelligence in 2021, and I plan to activ
 
 #### :triangular_flag_on_post: 2021 - 1
 
-1. Project upload plan through learning related to Machine learning, Statistics, Image processing and Speech recognition and Data mining.<br>
-2. Project to be carried out in Bioinformatics Lab is scheduled to be uploaded
+1. Project upload plan through learning related to university course<br>
+2. Project to be carried out in personal is scheduled to be uploaded
 3. Will participate in Kaggle
 
 
