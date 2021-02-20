@@ -1,8 +1,8 @@
 <h2 align="left"> Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
 I am interested in ML / DL , especially Digital Image Processing and Computer Vision.<br><br>
-I started studying data and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ labs  ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
+I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
+✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python)
 
@@ -64,9 +64,9 @@ I started studying data and artificial intelligence in 2021, and I plan to activ
 
 #### :triangular_flag_on_post: 2021 - 1
 
-1. Project upload plan through learning related to university course<br>
-2. Project to be carried out in personal is scheduled to be uploaded
-3. Will participate in Kaggle
+1. Project to be carried out in personal will be uploaded  through learning based on university course.
+2. Upload university class study materials
+3. Kaggle 
 
 
 <!--
