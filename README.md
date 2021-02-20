@@ -66,7 +66,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 * Project to be carried out in personal will be uploaded through learning based on university course and personal study.<br>
 
-[App project based on ML / DL - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)<br><br>
+[ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)<br><br>
 [Kaggle : Working Space]()
 
 <!--
