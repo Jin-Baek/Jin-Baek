@@ -4,7 +4,7 @@ I am interested in ML / DL , especially Digital Image Processing and Computer Vi
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
 ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
-🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) 
+🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
 🌱 I’m currently working on [For people with allergies](https://github.com/Jin-Baek/For_people_with_allergies)
 
 <h3 align="left">  :wrench: Main Languages </h3>  
