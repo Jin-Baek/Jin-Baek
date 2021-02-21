@@ -5,7 +5,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
-🌱 I’m currently working on [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project) planning
+🌱 I’m currently planning on [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project) planning
 
 <h3 align="left">  :wrench: Main Languages </h3>  
 <p align="left">
@@ -17,7 +17,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 <p align="left">
   
-  Techs that I've used in project or study at least once
+  Techs that I've used at least once
   
   <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
@@ -67,7 +67,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * Project to be carried out in personal will be uploaded through learning based on university course and personal study.<br>
 
 [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)<br><br>
-[Kaggle : Working Space]()<br>
+[Kaggle : Working Space]()<br><br>
 [Deep Learning basic based on Python]()
 
 <!--
