@@ -5,7 +5,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
-🌱 I’m currently planning on [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project) planning
+🌱 I’m currently planning on [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)
 
 <h3 align="left">  :wrench: Main Languages </h3>  
 <p align="left">
