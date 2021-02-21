@@ -5,7 +5,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 ✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
-🌱 I’m currently working on [ML/DL-based App project - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project) planning
+🌱 I’m currently working on [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project) planning
 
 <h3 align="left">  :wrench: Main Languages </h3>  
 <p align="left">
@@ -67,7 +67,8 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * Project to be carried out in personal will be uploaded through learning based on university course and personal study.<br>
 
 [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)<br><br>
-[Kaggle : Working Space]()
+[Kaggle : Working Space]()<br>
+[Deep Learning basic based on Python]()
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
