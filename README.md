@@ -17,8 +17,6 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 <p align="left">
   
-  Techs that I've used at least once
-  
   <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
