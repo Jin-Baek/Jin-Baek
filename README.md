@@ -66,7 +66,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [ML / DL project with App dev - AllergiesCare](https://github.com/Jin-Baek/AllergiesCare_project)
 
-[Kaggle Struggle]()
+[Kaggling]()
 
 [Deep Learning basic based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
 
