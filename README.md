@@ -2,7 +2,7 @@
 
 I am interested in ML / DL , especially Digital image processing .<br><br>
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ university cooperative studies  ✅ contests such as Kaggle and Dacon  ✅ dissertation reviews
+✅ University course  ✅ Kaggle and Dacon  ✅ Dissertation reviews
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
 
