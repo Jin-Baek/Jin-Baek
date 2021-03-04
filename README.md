@@ -61,8 +61,6 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 #### :triangular_flag_on_post: 2021 - 1
 
-* Project to be carried out in personal will be uploaded through learning based on university course and personal study.<br>
-
 [Toy project - Biological structured and unstructured data modeling](https://github.com/Jin-Baek/Bio_ML_DL_practice)
 
 [Deep Learning basic based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
