@@ -63,7 +63,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Toy project - Biological structured and unstructured data modeling](https://github.com/Jin-Baek/Bio_ML_DL_practice)
 
-[Deep Learning basic based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
+[Deep Learning based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
