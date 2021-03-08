@@ -1,8 +1,8 @@
 <h2 align="left"> Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
-I am interested in ML / DL , especially Digital image processing .<br><br>
+I am interested in ML / DL , especially Computer vision based on biomedical image data.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ University course  ✅ Kaggle and Dacon  ✅ Dissertation reviews
+✅ University course  ✅ Deep learning basics  ✅ Computer vision practice
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
 
