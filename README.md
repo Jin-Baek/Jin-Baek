@@ -57,7 +57,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트](https://github.com/Jin-Baek/courseraML)
 
-[Machine Learning based on Python](https://github.com/Jin-Baek/Machine_Learning-python)
+[Machine Learning based on Python](https://github.com/Jin-Baek/Machine_Learning-python) ( ~ 2021 - 1 )
 
 #### :triangular_flag_on_post: 2021 - 1
 
