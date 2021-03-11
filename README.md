@@ -63,11 +63,13 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Deep Learning basic based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
 
+[Machine Learning detailed concept](https://github.com/Jin-Baek/Machine_Learning_detailed)
+
 [R basic](https://github.com/Jin-Baek/R_basic)
 
 #### :triangular_flag_on_post: 2021 - summer
 
-[Machine Learning detailed concept](https://github.com/Jin-Baek/Machine_Learning_detailed)
+
 
 
 <!--
