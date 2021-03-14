@@ -2,7 +2,7 @@
 
 I am interested in ML / DL , especially Computer vision & Image processing based on biomedical image data.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ University course  ✅ Deep learning basics  ✅ Computer vision practice
+✅ University course  ✅ Deep learning basics  ✅ Computer vision basics ✅ Paper review
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
 
@@ -57,13 +57,13 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트](https://github.com/Jin-Baek/courseraML)
 
-[Machine Learning basic based on Python](https://github.com/Jin-Baek/Machine_Learning-python) ( ~ 2021 - 1 )
+[Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) ( ~ 2021 - 1 )
 
 #### :triangular_flag_on_post: 2021 - 1
 
-[Deep Learning basic based on Python](https://github.com/Jin-Baek/Deep_Learning-python)
+[Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
-[Linear algebra & Statistics with Python & R](https://github.com/Jin-Baek/LinearAlgebra-Statistics)
+[Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
 [R basic](https://github.com/Jin-Baek/R_basic)
 
