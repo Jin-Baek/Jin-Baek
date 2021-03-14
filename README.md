@@ -43,27 +43,27 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 #### :triangular_flag_on_post: 2020 - summer 
 
-[Web project - JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
+[Web project : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
 
 #### :triangular_flag_on_post: 2020 - 2
 
-[App project - 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
+[App project : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 
 [Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 
 #### :triangular_flag_on_post: 2020 - winter
 
-[Toy project - Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis)
+[Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis)
 
 [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트](https://github.com/Jin-Baek/courseraML)
 
-[Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) ( ~ 2021 - 1 )
+[Book : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) ( ~ 2021 - 1 )
 
 #### :triangular_flag_on_post: 2021 - 1
 
-[Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
+[Book : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
-[Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
+[Book : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
 [R basic](https://github.com/Jin-Baek/R_basic)
 
