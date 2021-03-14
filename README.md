@@ -57,15 +57,15 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트](https://github.com/Jin-Baek/courseraML)
 
-[Book : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) ( ~ 2021 - 1 )
+[Code + Toy project : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) ( ~ 2021 - 1 )
 
 #### :triangular_flag_on_post: 2021 - 1
 
-[Book : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
+[Code : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
-[Book : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
+[Code : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
-[R basic](https://github.com/Jin-Baek/R_basic)
+[Code : R basic](https://github.com/Jin-Baek/R_basic)
 
 #### :triangular_flag_on_post: 2021 - summer
 
