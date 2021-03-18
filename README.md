@@ -61,15 +61,13 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 #### :triangular_flag_on_post: 2021 - 1
 
-[Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
-
 [Learns : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
 [Learns : R basic](https://github.com/Jin-Baek/R_basic)
 
 #### :triangular_flag_on_post: 2021 - summer
 
-
+[Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
 
 <!--
