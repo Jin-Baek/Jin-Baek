@@ -2,7 +2,7 @@
 
 I am interested in ML / DL , especially Signal processing based on biomedical data.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ University course  ✅ Deep learning basics  ✅ Computer vision basics ✅ Paper review
+✅ University course  ✅ Machine learning & Deep learning  ✅ bioinformatic paper review
 
 🌱 I’m currently working on [ML](https://github.com/Jin-Baek/Machine_Learning-python) <br>
 
@@ -64,6 +64,10 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 [Learns : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
 [Learns : R basic](https://github.com/Jin-Baek/R_basic)
+
+[Team project : KUS HONORS R&SD Badge](https://github.com/Jin-Baek/2021-KUS-HONORS-R-SD-Badge)
+
+[Bioinformatic : paper review](https://github.com/Jin-Baek/Paper-Review_gut-microbial-data)
 
 #### :triangular_flag_on_post: 2021 - summer
 
