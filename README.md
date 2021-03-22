@@ -53,7 +53,8 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 #### :triangular_flag_on_post: 2020 - winter
 
-[Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis)
+[Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) ------------
+[Study resource : Crawling & Analysis in python](https://github.com/Jin-Baek/python_crawling_analysis) ( private )
 
 [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
 
