@@ -2,7 +2,7 @@
 
 I am interested in ML / DL , especially Signal processing based on biomedical data.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ University course  ✅ Machine learning & Deep learning  ✅ Bioinformatic paper review
+✅ University course  ✅ Machine learning & Deep learning  ✅ paper review
 
 🌱 I’m currently working on [R basic](https://github.com/Jin-Baek/R_basic) <br>
 
