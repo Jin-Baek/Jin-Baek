@@ -70,10 +70,13 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Bioinformatic : paper review](https://github.com/Jin-Baek/Paper-Review_gut-microbial-data)
 
-#### :triangular_flag_on_post: 2021 - summer
+#### :triangular_flag_on_post: 2021 - summer (plan)
 
 [Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
+algorithm study
+
+bioinformatic study
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
