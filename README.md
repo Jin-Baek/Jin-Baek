@@ -66,9 +66,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 [Learns : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
 
-[Team project : KUS HONORS R&SD Badge](https://github.com/Jin-Baek/2021-KUS-HONORS-R-SD-Badge)
-
-[Bioinformatic : paper review](https://github.com/Jin-Baek/Paper-Review_gut-microbial-data)
+[Research : CURT program - bioinformatics ](https://github.com/Jin-Baek/CURTprogram)
 
 #### :triangular_flag_on_post: 2021 - summer (plan)
 
