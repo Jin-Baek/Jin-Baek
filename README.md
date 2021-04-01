@@ -10,6 +10,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/></a>
 </p>
 
 <h3 align="left"> :wrench: Tech Stack </h3>
@@ -42,40 +43,36 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 - algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
 
 #### :triangular_flag_on_post: 2020 - summer 
-
-[Web project : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
+* [Web project : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
 
 #### :triangular_flag_on_post: 2020 - 2
 
-[App project : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
+* [App project : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 
-[Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
+* [Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 
 #### :triangular_flag_on_post: 2020 - winter
 
-[Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) ------------
-[Study resource : Crawling & Analysis in python](https://github.com/Jin-Baek/python_crawling_analysis) ( private )
+* [Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) ------------
+* [Study resource : Crawling & Analysis in python](https://github.com/Jin-Baek/python_crawling_analysis) ( private )
 
-[Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
+* [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
 
-[Toy project + Learns : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
+* [Toy project + Learns : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 
 #### :triangular_flag_on_post: 2021 - 1
 
-[Learns : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
+* [Learns : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
 
-[Learns : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
+* [Learns : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
 
-[Research : CURT program - bioinformatics ](https://github.com/Jin-Baek/CURTprogram)
+* [Research : CURT program - bioinformatics ](https://github.com/Jin-Baek/CURTprogram)
 
 #### :triangular_flag_on_post: 2021 - summer (plan)
 
-[Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
+* [Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 
-algorithm study
-
-bioinformatic study
-
+* algorithm study
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
