@@ -48,7 +48,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [App project : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 * [Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 #### :triangular_flag_on_post: 2020 - winter
-* [Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) ------------ [Study resource : Crawling & Analysis in python](https://github.com/Jin-Baek/python_crawling_analysis) ( private )
+* [Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
 * [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
 * [Toy project + Learns : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
