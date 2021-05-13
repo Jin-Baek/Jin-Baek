@@ -43,18 +43,21 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 - algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
 
 #### :triangular_flag_on_post: 2020 - summer 
-* [Web project : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
+* [[ Web project ] : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
 #### :triangular_flag_on_post: 2020 - 2
-* [App project : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
-* [Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
+* [[ App project ] : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
+* [[ Algorithm ] : Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 #### :triangular_flag_on_post: 2020 - winter
-* [Toy project : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
-* [Coursera : Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
-* [Toy project + Learns : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
+* [[ DS project ] : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
+* [[ Learns ] : ( Coursera )Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
+* [[ ML Project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
-* [Learns : Machine learning with Linear algebra & Statistic in python](https://github.com/Jin-Baek/ML-LinearAlgebra-and-Statistics-with-python)
-* [Learns : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
-* [Research : CURT program - bioinformatics ](https://github.com/Jin-Baek/CURTprogram)
+* [[ Learns ] : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
+* [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
+* [[ Signal processing project ] : FFT , STFT with MATLAB](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
+* [[ Network project ] : Programming ARP in PBL](https://github.com/Jin-Baek/Network_ARP_project)
+* [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
+* [[ ML research ] : Dimensionality Reduction - PCA , MDS , t-SNE , UMAP , PHATE ](https://github.com/Jin-Baek/MLresearch_DimensionaltyReduction)
 #### :triangular_flag_on_post: 2021 - summer (plan)
 * [Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
 * algorithm study
