@@ -58,9 +58,8 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [[ Network project ] : Programming ARP in PBL](https://github.com/Jin-Baek/Network_ARP_project)
 * [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
 * [[ ML research ] : Dimensionality Reduction - PCA , MDS , t-SNE , UMAP , PHATE ](https://github.com/Jin-Baek/MLresearch_DimensionaltyReduction)
-#### :triangular_flag_on_post: 2021 - summer (plan)
-* [Learns : Deep Learning from Scratch](https://github.com/Jin-Baek/Deep-Learning-from-Scratch)
-* algorithm study
+#### :triangular_flag_on_post: 2021 - summer 
+
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
