@@ -48,16 +48,16 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [[ App project ] : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 * [[ Algorithm ] : Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
 #### :triangular_flag_on_post: 2020 - winter
-* [[ DS project ] : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
-* [[ Learns ] : ( Coursera )Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
-* [[ ML Project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
+* [[ Data science project ] : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
+* [[ Learns ] : Coursera - Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
+* [[ Machine learning project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
 * [[ Learns ] : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
 * [[ Signal processing project ] : FFT , STFT with MATLAB](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Network project ] : Programming ARP in PBL](https://github.com/Jin-Baek/Network_ARP_project)
 * [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
-* [[ ML research ] : Dimensionality Reduction - PCA , MDS , t-SNE , UMAP , PHATE ](https://github.com/Jin-Baek/MLresearch_DimensionaltyReduction)
+* [[ Machine learning research ] : Dimensionality Reduction - PCA , MDS , t-SNE , UMAP , PHATE ](https://github.com/Jin-Baek/MLresearch_DimensionaltyReduction)
 #### :triangular_flag_on_post: 2021 - summer 
 
 <!--
