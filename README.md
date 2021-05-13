@@ -38,7 +38,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 ## Personal history
 
-#### :triangular_flag_on_post: Always 
+#### :triangular_flag_on_post: My account
 
 - algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
 
