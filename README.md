@@ -57,7 +57,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [[ Signal processing project ] : FFT , STFT with MATLAB](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Networking project ] : Programming ARP in PBL](https://github.com/Jin-Baek/Network_ARP_project)
 * [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
-* [[ Machine learning research ] : Dimensionality Reduction - PCA , MDS , t-SNE , UMAP , PHATE ](https://github.com/Jin-Baek/MLresearch_DimensionaltyReduction)
+* [[ Machine learning research ] : Dimensionality Reduction / Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
 #### :triangular_flag_on_post: 2021 - summer 
 
 <!--
