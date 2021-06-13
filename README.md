@@ -58,7 +58,12 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
 * [[ Machine learning concept] : Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
 #### :triangular_flag_on_post: 2021 - summer 
+planning
 
+* [[ Bioinformatics project ] : single cell RNA sequencing & Quality control with R]()
+* [[ Certificate ] : SQLD (SQL Developer)]()
+* [[ Certificate ] : ADsp (Advanced Data Analytics Semi-Professional)]()
+* [[ R advanced ] : Implement multiple R packages (Undecided) ]()
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
