@@ -63,7 +63,7 @@ planning
 * [[ Bioinformatics project ] : single cell RNA sequencing & Quality control with R]()
 * [[ Certificate ] : SQLD (SQL Developer)]()
 * [[ Certificate ] : ADsp (Advanced Data Analytics Semi-Professional)]()
-* [[ R advanced ] : Implement multiple R packages (Undecided) ]()
+* [[ R advanced project] : Implement multiple R packages (Undecided) ]()
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
