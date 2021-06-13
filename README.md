@@ -52,7 +52,7 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 * [[ Learns ] : Coursera - Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
 * [[ Machine learning project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
-* [[ Learns ] : R basic + machine learning + data mining](https://github.com/Jin-Baek/R-ML-DM)
+* [[ Learns ] : R basic + Data mining](https://github.com/Jin-Baek/R-ML-DM)
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
 * [[ Signal processing project ] : FFT , STFT with Python](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Web project ] : Frontend & PHP & MySQL - "Bustling"](https://github.com/Jin-Baek/webproject_bustling)
