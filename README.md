@@ -6,32 +6,11 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 
 🌱 I’m currently working on <br>
 
-<h3 align="left">  :wrench: Main Languages </h3>  
+<h3 align="left">  :wrench: Languages </h3>  
 <p align="left">
   <a href=""><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/></a>
-</p>
-
-<h3 align="left"> :wrench: Tech Stack </h3>
-
-<p align="left">
-  
-  <a href=""><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-  <br><br>
-  <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Android--studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/></a>
-  <br>
-  <a href=""><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=json&logoColor=white"/></a>
-  <br>
-  <a href=""><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
- <br><br>
 </p>
 
 -----------------------------
