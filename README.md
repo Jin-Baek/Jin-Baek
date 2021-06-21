@@ -2,7 +2,7 @@
 
 I am interested in Bioinformatics , especially developing machine learning packages that are easy to analyze bio-data based on statistics.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and actively participate in , <br>
-✅ University course  ✅ Machine learning & Deep learning  ✅ biological concept ✅ Statistic
+✅ University course  ✅ Machine learning & Deep learning  ✅ Biological concept ✅ Statistic
 
 🌱 I’m currently working on <br>
 
@@ -40,7 +40,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 planning
 
 * [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
-* [[ Paper review ] : Summarize and study papers on topics of interest]() 
+* [[ Paper review ] : Machine learning - Statistics - Biology]() 
 * [[ Learns ] : Linux Server setting & commands]()
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)]()
 * [[ Machine learning research] : Multi-classification model applicable to microbial data with R]()
