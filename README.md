@@ -1,8 +1,8 @@
 <h2 align="left"> Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
 
-I am interested in ML / DL , especially applying AI tech on biomedical data.<br><br>
-I started studying data analysis and artificial intelligence in 2021, and I plan to actively participate in , <br>
-✅ University course  ✅ Machine learning & Deep learning  ✅ paper review
+I am interested in Bioinformatics , especially applying AI tech .<br><br>
+I started studying data analysis and artificial intelligence in 2021, and actively participate in , <br>
+✅ University course  ✅ Machine learning & Deep learning  ✅ biological concept ✅ Statistic
 
 🌱 I’m currently working on <br>
 
@@ -39,10 +39,12 @@ I started studying data analysis and artificial intelligence in 2021, and I plan
 #### :triangular_flag_on_post: 2021 - summer 
 planning
 
-* [[ Bioinformatics project ] : single cell RNA sequencing & Quality control with R]()
-* [[ Certificate ] : SQLD (SQL Developer)]()
-* [[ Certificate ] : ADsp (Advanced Data Analytics Semi-Professional)]()
-* [[ R advanced project] : Implement multiple R packages (Undecided) ]()
+* [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
+* [[ Paper review ] : Summarize and study papers on topics of interest]() 
+* [[ Learns ] : Linux Server setting & commands]()
+* [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)]()
+* [[ Machine learning research] : Multi-classification model applicable to microbial data with R]()
+
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
