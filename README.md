@@ -21,11 +21,14 @@ I started studying data analysis and artificial intelligence in 2021, and active
 
 - algorithm : [Baekjoon](https://www.acmicpc.net/user/baekpower98)  [Programmers](https://programmers.co.kr/)
 
+#### :triangular_flag_on_post: 2020 - 1 
+* Grade 4.1 / 4.13
 #### :triangular_flag_on_post: 2020 - summer 
 * [[ Web project ] : JSP Model 2 & Oracle](https://github.com/Jin-Baek/Project1)
 #### :triangular_flag_on_post: 2020 - 2
 * [[ App project ] : 세종시 지역문제 관련 창업지원교육팀 Edushare](https://github.com/Jin-Baek/Edushare_AppDev)  
 * [[ Algorithm ] : Algorithm & Data structure in C++](https://github.com/Jin-Baek/datastructure_cpp)
+* Grade 3.75 / 3.88
 #### :triangular_flag_on_post: 2020 - winter
 * [[ Data science project ] : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
 * [[ Learns ] : Coursera - Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
@@ -35,7 +38,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
 * [[ Signal processing project ] : FFT , STFT with Python](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Web project ] : Frontend & PHP & MySQL - "Real-time status"](https://github.com/Jin-Baek/webproject_bustling)
-* [[ Machine learning concept] : Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
+* [[ Lab presentation Q ] :  Machine learning concept : Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
 #### :triangular_flag_on_post: 2021 - summer 
 planning
 
