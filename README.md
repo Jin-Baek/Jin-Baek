@@ -35,10 +35,10 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Machine learning project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
 * [[ Learns ] : R basic + Data mining](https://github.com/Jin-Baek/R-ML-DM)
-* [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
 * [[ Signal processing project ] : FFT , STFT with Python](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Web project ] : Frontend & PHP & MySQL - "Real-time status"](https://github.com/Jin-Baek/webproject_bustling)
-* [[ Lab presentation Q ] :  Machine learning concept : Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
+* [[ Lab presentation Q ] :  Machine learning concept - Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
+* [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)  ~ 7/15 
 #### :triangular_flag_on_post: 2021 - summer 
 planning
 
