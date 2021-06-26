@@ -1,4 +1,5 @@
-<h2 align="left"> Lee - JinBaek  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a></h2> 
+<h2 align="left"> Lee - JinBaek  
+  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin-Baek&count_bg=%23A26ED3&title_bg=%23555555&icon=atom.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/></a> --> </h2> 
 
 I am interested in Bioinformatics , especially developing machine learning packages that are easy to analyze bio-data based on statistics.<br><br>
 I started studying data analysis and artificial intelligence in 2021, and actively participate in , <br>
