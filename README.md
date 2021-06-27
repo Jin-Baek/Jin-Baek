@@ -44,10 +44,10 @@ I started studying data analysis and artificial intelligence in 2021, and active
 planning
 
 * [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
-* [[ Paper review ] : Machine learning - Statistics - Biology]() 
+* [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Learns ] : Linux Server setting & commands]()
-* [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)]()
 * [[ Machine learning research] : Multi-classification model applicable to microbial data with R]()
+* [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate)
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
