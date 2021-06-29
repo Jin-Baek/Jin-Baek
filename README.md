@@ -50,8 +50,7 @@ Grade (total grade) / (major grade)
 
 CURT 연구 끝나는대로 <br>
 [[ Machine learning research] : Multi-classification model applicable to microbial data with R]() <br>
-[[ Bioinformatics research] : Single-cell RNA sequencing Quality Control package with R]() <br>
-둘 중 한 연구 정해서 
+[[ Bioinformatics research] : Single-cell RNA sequencing Quality Control package with R]()  중 택 1 하여 연구 진행 
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
