@@ -46,8 +46,12 @@ Grade (total grade) / (major grade)
 * [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Learns ] : Linux Server setting & commands]()
-* [[ Machine learning research] : Multi-classification model applicable to microbial data with R]()
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate)
+
+CURT 연구 끝나는대로 <br>
+[[ Machine learning research] : Multi-classification model applicable to microbial data with R]() <br>
+[[ Bioinformatics research] : Single-cell RNA sequencing Quality Control package with R]() <br>
+둘 중 한 연구 정해서 
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
