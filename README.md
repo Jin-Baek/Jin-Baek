@@ -17,6 +17,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 -----------------------------
 
 ## Personal history
+Grade (total grade) / (major grade)
 
 #### :triangular_flag_on_post: My account
 
@@ -39,10 +40,9 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Signal processing project ] : FFT , STFT with Python](https://github.com/Jin-Baek/FFT_STFT_project_with_MATLAB)
 * [[ Web project ] : Frontend & PHP & MySQL - "Real-time status"](https://github.com/Jin-Baek/webproject_bustling)
 * [[ Lab presentation Q ] :  Machine learning concept - Dimensionality Reduction / Linear Regression / Classification ](https://github.com/Jin-Baek/MLresearch)
+* Grade 4.38 / 4.5
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)  ~ 7/15 
 #### :triangular_flag_on_post: 2021 - summer 
-planning
-
 * [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Learns ] : Linux Server setting & commands]()
