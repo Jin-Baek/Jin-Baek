@@ -43,7 +43,7 @@ Grade (total grade) / (major grade)
 * Grade 4.38 / 4.5
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)  ~ 7/15 
 #### :triangular_flag_on_post: 2021 - summer 
-* [[ Bioinformatics study ] : single cell RNA sequencing & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
+* [[ Bioinformatics study ] : Genetic & Statistical analysis](https://github.com/Jin-Baek/sRNAseq-Stat)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Learns ] : Linux Server setting & commands]()
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate)
