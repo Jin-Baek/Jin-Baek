@@ -45,7 +45,7 @@ Grade (total grade) / (major grade)
 #### :triangular_flag_on_post: 2021 - summer 
 * [[ Bioinformatics study ] : Genetic - Statistic analysis](https://github.com/Jin-Baek/Genetic-Statistic)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
-* [[ Learns ] : Linux Server setting & commands]()
+* [[ Database project ] : MySQL database design - "Airline CRM"]()
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate)
 
 CURT 연구 끝나는대로 <br>
