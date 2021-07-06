@@ -32,7 +32,6 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * Grade 3.75 / 3.88
 #### :triangular_flag_on_post: 2020 - winter
 * [[ Data science project ] : Crawling & Data Analysis based on Python ](https://github.com/Jin-Baek/Py.Crawling_Analysis) 
-* [[ Learns ] : Coursera - Standford Univ Andrew Ng's Machine Learning 강의 노트 (중단) ](https://github.com/Jin-Baek/courseraML)
 * [[ Machine learning project + Learns ] : Python Machine learning Perfect guide](https://github.com/Jin-Baek/Python-Machine-learning-Perfect-guide-) 
 #### :triangular_flag_on_post: 2021 - 1
 * [[ Learns ] : R basic + Data mining](https://github.com/Jin-Baek/R-ML-DM)
