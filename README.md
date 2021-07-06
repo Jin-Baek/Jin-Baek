@@ -16,7 +16,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 
 -----------------------------
 
-## Personal history
+## :books: Experience :books:
 Grade (total grade) / (major grade)
 
 #### :triangular_flag_on_post: My account
