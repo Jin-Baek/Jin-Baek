@@ -45,7 +45,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * Grade 4.38 / 4.5
 
 #### :triangular_flag_on_post: 2021 - summer 
-* [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)  ~ 7/15 
+* [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
 * [[ Database project ] : MySQL database design - "Airline CRM"]() ~7/15
 * [[ Bioinformatics study ] : Statistic & OMICS analysis](https://github.com/Jin-Baek/Statistic.OMICS)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
