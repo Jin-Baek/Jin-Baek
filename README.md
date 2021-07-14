@@ -51,10 +51,6 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate) 8월중 
 
-CURT 연구 끝나는대로 <br>
-[[ Machine learning research] : Multi-classification model applicable to microbial data with R]() <br>
-[[ Bioinformatics research] : Single-cell RNA sequencing Quality Control package with R]()  중 택 1 하여 연구 진행 
-
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
