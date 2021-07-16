@@ -46,7 +46,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 
 #### :triangular_flag_on_post: 2021 - summer 
 * [[ Bioinformatics research ] : CURT program](https://github.com/Jin-Baek/CURTprogram)
-* [[ Database project ] : MySQL database design - "Airline CRM"]() ~7/15
+* [[ Database project ] : MySQL database design - "Airline CRM"](https://github.com/Jin-Baek/DB.AirlineCRM) 
 * [[ Bioinformatics study ] : Statistic & OMICS analysis](https://github.com/Jin-Baek/Statistic.OMICS)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
 * [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate) 8월중 
