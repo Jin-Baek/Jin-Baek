@@ -8,7 +8,6 @@ I started studying data analysis and artificial intelligence in 2021, and active
 🌱 I’m currently working on <br>
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review)
 * [[ Bioinformatics study ] : Statistic & OMICS analysis](https://github.com/Jin-Baek/Statistic.OMICS)
-* [[ Database project ] : MySQL database design - "Airline CRM"]()
 * (Everyday) Paper Reading : presentation on "Coffee Break time"
 
 <h3 align="left">  :wrench: Languages </h3>  
