@@ -48,7 +48,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Database project ] : MySQL database design - "Airline CRM"](https://github.com/Jin-Baek/DB.AirlineCRM) 
 * [[ Bioinformatics study ] : Statistic & OMICS analysis](https://github.com/Jin-Baek/Statistic.OMICS)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
-* [[ Certificate ] : SQLD (SQL Developer) / ADsp (Advanced Data Analytics Semi-Professional)](https://github.com/Jin-Baek/data_Certificate) 8월중 
+* [[ Certificate ] : SQLD , ADsp , 리눅스마스터 2급](https://github.com/Jin-Baek/certificate) 8월중 
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
