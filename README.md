@@ -48,6 +48,7 @@ I started studying data analysis and artificial intelligence in 2021, and active
 * [[ Database project ] : MySQL database design - "Airline CRM"](https://github.com/Jin-Baek/DB.AirlineCRM) 
 * [[ Bioinformatics study ] : Statistic & OMICS analysis](https://github.com/Jin-Baek/Statistic.OMICS)
 * [[ Paper review ] : Machine learning - Statistics - Biology](https://github.com/Jin-Baek/21s_paper_review) 
+* [[ Bioinformatics research ] : Normalization & Dimensional reduction on human-microbiome data](https://github.com/Jin-Baek/Human-microbiome.research)
 * [[ Certificate ] : SQLD , ADsp , 리눅스마스터 2급](https://github.com/Jin-Baek/certificate) 8월중 
 
 <!--
