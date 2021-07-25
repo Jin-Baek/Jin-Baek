@@ -1,5 +1,6 @@
-<h2 align="left"> Lee - JinBaek  
-
+<h2 align="left"> JinBaek Lee </h2>
+  
+⚡ [Notion](https://www.notion.so/Jin-Baek-0316dd63e6f74966aeb79bcf19a5ef36)
 
 <!--
 **Jin-Baek/Jin-Baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
