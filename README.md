@@ -1,6 +1,6 @@
 <h2 align="left"> JinBaek Lee </h2>
 
-⚡ [Notion](https://www.notion.so/Jin-Baek-0316dd63e6f74966aeb79bcf19a5ef36)
+⚡ [Notion](https://magic-drifter-321.notion.site/Jin-Baek-0316dd63e6f74966aeb79bcf19a5ef36)
 
 
 <!--
